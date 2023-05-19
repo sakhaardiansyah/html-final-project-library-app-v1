@@ -10,6 +10,6 @@ const studentName = "Sakha Ardiansyah"; // TODO: replace this
 
 const studentId = "FE5319718"; // TODO: replace this
 
-const NetlifyDeployUrl = ""; // TODO: replace this
+const NetlifyDeployUrl = "https://resonant-sprinkles-a6347d.netlify.app/"; // TODO: replace this
 
 module.exports = { studentName, studentId, NetlifyDeployUrl };
